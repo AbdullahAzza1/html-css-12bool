@@ -1,8 +1,15 @@
 .box{    
     background:rgb(64, 88, 176);
     border: solid 3px white;
-    padding: 0.25rem;
+    padding: 1.25rem;
     color: white;
     height: 100%;   
 }
 
+.int-box{
+    background:rgb(25, 96, 26);
+    padding: 0.25rem;
+    color: white;
+    height: 100%;
+    margin: 3px;  
+}
